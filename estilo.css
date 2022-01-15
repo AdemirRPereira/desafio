@@ -29,6 +29,8 @@ main > section img{
     height: 300px;
     margin: 15px 0;
     width: 300px;
+    border: goldenrod solid 4px;
+    border-radius: 10px;
 }
 
 main > section button {
