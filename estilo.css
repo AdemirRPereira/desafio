@@ -7,10 +7,10 @@
 body {
     background-image: linear-gradient(
         180deg,
-        #6495ed 5%,
-        #00ffff 20%,
-        #00888b 60%,
-        #00ced1 95%
+        #159957 5%,
+        #155799 20%,
+        #000046 60%,
+        #1cb5e0 95%
     );
     margin: 0;
     min-height: 100vh;
