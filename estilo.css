@@ -1,15 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
 
 body {
     background-image: linear-gradient(
         180deg,
-        #159957 5%,
+        #1cb5e0 5%,
         #155799 20%,
-        #000046 60%,
+        #000046 30%,
         #1cb5e0 95%
     );
     margin: 0;
@@ -63,4 +59,12 @@ display: flex;
 
 #detalhes-container > li p {
     color: white;
+    font-family: arial;
+}
+botao:hover {
+    background-color: #333333;
+    border: 2px solid #000;
+    color: white;
+    transition: all 0.5s ease-in;
+    transition-delay: 0.05s;
 }
