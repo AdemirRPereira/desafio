@@ -5,7 +5,7 @@ const especie = document.querySelector('#especie');
 const condicao = document.querySelector('#condicao');
 
 gerarValorAleatorio = () => {
-    return Math.floor(Math.random() * (4 - 1) + 1);
+    return Math.floor(Math.random() * (961) + 1);
 }
 
 pegarPersonagem = () => {
